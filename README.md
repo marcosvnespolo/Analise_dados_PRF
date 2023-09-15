@@ -6,6 +6,7 @@ Este repositório é dedicado à análise e compreensão dos padrões de acident
 
 Os acidentes de trânsito são uma das principais causas de mortes no Brasil. A PRF, como uma das principais instituições de segurança rodoviária, registra diversas ocorrências diariamente. Deta forma, meu objetivo com este projeto é utilizar esses dados para compreender melhor a natureza desses acidentes e fornecer possíveis soluções.
 
+
 # Detalhes do Conjunto de Dados 📊
 
 O conjunto de dados abrange registros de acidentes de várias regiões do Brasil. Cada entrada fornece informações detalhadas sobre o acidente, como data, hora, localização, condições climáticas, causa e tipo de acidente, entre outras.
