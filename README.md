@@ -21,4 +21,5 @@ Propor medidas preventivas com base nas descobertas.
 
 Fonte: O conjunto de dados foi obtido por meio do site oficial da PRF, sendo um compilado de registros de acidentes de trânsito de várias regiões do Brasil.
 Acesso: O conjunto de dados já foi processado e limpo e está disponível na pasta do projeto.
-Dados Originais: O conjunto de dados original, junto com outras informações relevantes, pode ser acessado no site oficial da PRF.
+Dados Originais: O conjunto de dados original, junto com outras informações relevantes, pode ser acessado no link a seguir:
+https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
