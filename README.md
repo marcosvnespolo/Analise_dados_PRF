@@ -2,6 +2,8 @@
 
 Este repositório é dedicado à análise e compreensão dos padrões de acidentes de trânsito no Brasil, usando dados fornecidos pela Polícia Rodoviária Federal (PRF). Através desta análise, pretendo identificar tendências, áreas de risco e fornecer sugestões que possam contribuir para a segurança das rodovias Brasileiras.
 
+IMPORTANTE: caso queira visualizar os mapas criados pela biblioteca Folium, recomendo que o notebook seja aberto diretamente no colab, através da opção fornecida pelo próprio github!!
+
 # Descrição do Projeto 📝
 
 Os acidentes de trânsito são uma das principais causas de mortes no Brasil. A PRF, como uma das principais instituições de segurança rodoviária, registra diversas ocorrências diariamente. Deta forma, meu objetivo com este projeto é utilizar esses dados para compreender melhor a natureza desses acidentes e fornecer possíveis soluções.
